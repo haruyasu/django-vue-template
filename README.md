@@ -1,8 +1,8 @@
 # Django Vue.js Heroku Depkoy Template
 
-![Vue Logo](/src/assets/logo-vue.png "Vue Logo")
-![Django Logo](/src/assets/logo-django.png "Django Logo")
-![Heroku Logo](/src/assets/logo-heroku.png "Heroku Logo")
+<img src="/src/assets/logo-vue.png">
+<img src="/src/assets/logo-django.png">
+<img src="/src/assets/logo-heroku.png">
 
 ## 説明
 
