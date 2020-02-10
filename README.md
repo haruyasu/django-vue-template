@@ -1,7 +1,7 @@
 # Django Vue.js Heroku Depkoy Template
 
-<img src="/src/assets/logo-vue.png">
 <img src="/src/assets/logo-django.png">
+<img src="/src/assets/logo-vue.png">
 <img src="/src/assets/logo-heroku.png">
 
 ## 説明
